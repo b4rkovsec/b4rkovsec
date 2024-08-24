@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**b4rkovsec/b4rkovsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">B4rkov</h3>
+<p>
+I am not responsible for the way you use my codes.
+</p>
 
-Here are some ideas to get you started:
+[![Discord Presence](https://lanyard.cnrad.dev/api/1207107827164778497)](https://discord.com/users/1207107827164778497)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-%239b44c7.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=b4rkovsec&show_icons=true&locale=en&layout=compact" alt="b4rkovsec" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b4rkovsec&show_icons=true&locale=en" alt="b4rkovsec" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b4rkovsec&" alt="b4rkovsec" /></p>
